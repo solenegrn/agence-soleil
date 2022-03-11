@@ -1,0 +1,33 @@
+.footer{
+	background-color: #b69664;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 40px;
+}
+#mentionslegales{
+	padding: 10px;
+}
+#description {
+	text-align: left;
+	font-family:'arial', sans-serif;
+	margin-left: 31px
+}
+#droits{
+	text-align: center;
+	font-family:'arial', sans-serif;
+}
+.list-inline {
+  padding: 0;
+  list-style: none;
+}
+.list-inline li {
+  display: inline;
+  margin: 0 16px;
+  font-size: 40px;
+}
+
+.fa-brands {
+  color: white;
+}
